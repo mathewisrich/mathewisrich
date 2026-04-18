@@ -1,5 +1,10 @@
 # Mathew Sekanjako — Founder. Builder.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sekanjako-mathew)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sekanjakomathew3.0@gmail.com)
+[![Peechz](https://img.shields.io/badge/Peechz-FF6B6B?style=flat-square&logo=vercel&logoColor=white)](https://peechz.com)
+[![Psalms23Wave](https://img.shields.io/badge/Psalms23Wave-000000?style=flat-square&logo=react&logoColor=white)](https://www.psalms23wave.com)
+
 > TypeScript · Python · React Native · Next.js · Supabase · FastAPI · AI/ML
 > **I ship products that real people use.** From a national government platform in Ghana, to a university in Ohio, to couples on the iOS App Store.
 
