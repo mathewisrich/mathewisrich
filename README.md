@@ -19,7 +19,7 @@
 | 📱 **iOS App Store — 11.4%** | **P31** — Live on the App Store with an 11.4% organic impression-to-download conversion rate (industry average is 2–5%). |
 | 🏛️ **University Deployment** | **AkademData** — Running live at Mount Vernon Nazarene University. Processing 4,600 enrollment records for 2,700 students with zero parse errors. |
 | 🥇 **Ohio Hackathon 2025** | **Most Original Product** — Peechz, winning against AI tooling, social platforms, and dev infra. |
-| 🤖 **AI/ML Research** | **Akebulan AI** — Fine-tuned Mistral-7B with QLoRA on a custom SentencePiece tokenizer trained on 100K+ Luganda sentences. |
+| 🤖 **AI/ML Research** | **Alkebulan AI** — Fine-tuned Mistral-7B for five Ugandan languages (Luganda, Iteso, Runyankore, Acholi, Ateso). Published on HuggingFace. |
 
 ---
 
@@ -75,8 +75,8 @@ Drag-and-drop Excel ingestion pipeline that parses complex IPEDS, HLC, ODHE, and
 
 ---
 
-### [Akebulan AI — Indigenous Language Model (Luganda)](https://huggingface.co/Psalms23Wave)
-Open-language model trained to understand and generate text in Luganda, an under-resourced Bantu language.
+### [Alkebulan AI — Indigenous Language Model](https://huggingface.co/Psalms23Wave/Alkebulan-AI)
+Fine-tuned Mistral-7B for five under-resourced Ugandan languages: **Luganda, Iteso, Runyankore, Acholi, and Ateso.** Trained on parallel English↔local datasets for translation and basic interaction.
 
 > **Research Focus:** Morphological analysis, syllable distribution, and OOV rate optimization for agglutinative Bantu syntax. Training on RunPod RTX A6000 and Google Cloud T4/A100 GPUs.
 
