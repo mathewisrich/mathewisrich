@@ -12,7 +12,7 @@
 
 ## Try What I've Built
 
-**[▶️ Peechz — the video platform I'm building](https://peechz.com)**
+▶️ **[Peechz — the 60-second video platform replacing the tech resume](https://peechz.com)**
 
 ---
 
